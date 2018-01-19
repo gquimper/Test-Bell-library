@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "FF76AE52-52B5-4503-AE21-E3865755CB1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 766,
+    "width": 768,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E2060753-D0FF-49B2-8008-9643B155E36A"
+    },
+    {
+      "class": "group",
+      "id": "6DF3A64A-148F-4D80-AB2C-5549FBC418BF"
+    },
+    {
+      "class": "group",
+      "id": "BA0C851F-BAE2-45A5-8815-E5220D3F5288"
+    }
+  ],
+  "name": "sideNav Desktop",
+  "nameIsFixed": true,
+  "originalObjectID": "FF76AE52-52B5-4503-AE21-E3865755CB1F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

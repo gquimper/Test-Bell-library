@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "CBDC7D83-8EE6-4E50-B2DC-C355CD71EDA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 767.9999999999992,
+    "x": 0,
+    "y": 54
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DAA08C22-E6B2-42C8-9B55-500245672B64"
+    },
+    {
+      "class": "group",
+      "id": "D1EAA9D7-1665-4F3E-90FD-55D9B98CEBC1"
+    },
+    {
+      "class": "group",
+      "id": "AB68149B-3237-4125-AB8D-D1E04C79DDC6"
+    },
+    {
+      "class": "group",
+      "id": "C0DEBDCF-88CB-4A1F-BAEB-E8EDF7633A26"
+    }
+  ],
+  "name": "tab medium blue",
+  "nameIsFixed": true,
+  "originalObjectID": "CBDC7D83-8EE6-4E50-B2DC-C355CD71EDA0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

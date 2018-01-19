@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "do_objectID": "140520E8-792D-44DD-9BE2-F6B113D0C7D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 183,
+    "width": 271,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9FF27922-B320-4BE7-915A-DD223798CECC"
+    },
+    {
+      "class": "group",
+      "id": "2BA74C22-DD8F-4FE7-9D23-02D37F71C52E"
+    },
+    {
+      "class": "group",
+      "id": "FDC5A7CD-EC7E-454F-9417-7F40CC601A63"
+    },
+    {
+      "class": "group",
+      "id": "77AEE794-3918-4FAA-A042-270EF6E82846"
+    },
+    {
+      "class": "group",
+      "id": "70291C99-86AB-479F-9D46-D4962FD5C100"
+    }
+  ],
+  "name": "flyout logged_example",
+  "nameIsFixed": false,
+  "originalObjectID": "140520E8-792D-44DD-9BE2-F6B113D0C7D3",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

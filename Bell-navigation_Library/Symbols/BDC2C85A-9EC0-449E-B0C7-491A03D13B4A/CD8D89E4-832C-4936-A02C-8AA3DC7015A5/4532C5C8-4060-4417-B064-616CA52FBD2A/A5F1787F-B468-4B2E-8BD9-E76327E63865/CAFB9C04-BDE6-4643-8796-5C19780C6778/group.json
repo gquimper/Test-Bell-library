@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "CAFB9C04-BDE6-4643-8796-5C19780C6778",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 233,
+    "x": 0,
+    "y": 288
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98FAD5DD-9ADA-44BE-ABD1-387C8F7A4850"
+    },
+    {
+      "class": "group",
+      "id": "2DA5EFD8-2B7F-4EF6-8261-07716709DEF9"
+    }
+  ],
+  "name": "bell medium blue tab",
+  "nameIsFixed": true,
+  "originalObjectID": "CAFB9C04-BDE6-4643-8796-5C19780C6778",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

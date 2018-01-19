@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "917A965D-A0FA-45E3-A6D2-00B5F5160177",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 38,
+    "width": 65,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "LOGO / Bell",
+  "nameIsFixed": false,
+  "originalObjectID": "495F5A40-1FF9-4443-B14C-E1DDCC9FA790",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "748406A5-9BA0-426B-9A43-4DB9883B3717",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 38.23529,
+            "enabled": 1,
+            "modelID": "constraint_dbe78cef-5a8b-459e-a743-39dea96fbded",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 65
+          },
+          "automatic": 1,
+          "height": {
+            "constant": 38,
+            "enabled": 1,
+            "modelID": "constraint_047b246e-a888-4f33-ae21-5ee64e32b72a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_8eef8098-81a1-4a5e-b344-f9318ceb1a45",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 65,
+            "enabled": 1,
+            "modelID": "constraint_014c64de-ab56-4d6d-a283-765189729470",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

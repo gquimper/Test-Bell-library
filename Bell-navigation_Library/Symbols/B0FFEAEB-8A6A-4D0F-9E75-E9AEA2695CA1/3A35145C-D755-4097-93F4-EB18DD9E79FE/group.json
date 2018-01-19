@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "3A35145C-D755-4097-93F4-EB18DD9E79FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 182,
+    "width": 992,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0B3E91A0-BBBD-4815-A148-31229BA7B69D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9CD817E-B44F-49E0-B69C-8901E58C19DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C5D2046-BBD5-401B-B2F9-B72D9D2F748D"
+    }
+  ],
+  "name": "Stepflow_desktop",
+  "nameIsFixed": false,
+  "originalObjectID": "3A35145C-D755-4097-93F4-EB18DD9E79FE",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

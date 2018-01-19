@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "ECF5A917-41D0-4546-929E-A1D9839F4D11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 992,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5D636F01-5B2B-40F6-9784-31229AC41CFF"
+    },
+    {
+      "class": "group",
+      "id": "38F1041F-AAA1-4E20-992B-BCDFDC64FAE2"
+    }
+  ],
+  "name": "SUBNAV / MyBell / My Profile",
+  "nameIsFixed": true,
+  "originalObjectID": "ECF5A917-41D0-4546-929E-A1D9839F4D11",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

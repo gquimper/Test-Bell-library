@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2233,
+  "do_objectID": "88137BEE-DE75-486A-82BB-4FACEE0EE06D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 109,
+    "width": 320,
+    "x": 6868,
+    "y": 359
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F1A5D79A-C59B-4DE1-82F1-852011C04923"
+    },
+    {
+      "class": "group",
+      "id": "53761932-B013-4216-8549-C1A5576123A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3B6E666-873B-45AF-9CB7-B179C3D2A95B"
+    },
+    {
+      "class": "text",
+      "id": "F5C67520-22E7-4B98-9884-613F9C52859C"
+    },
+    {
+      "class": "text",
+      "id": "78CCFC6B-3EB3-4963-A5F1-778E23F8BB30"
+    }
+  ],
+  "name": "MOBILE / MyBell long name",
+  "nameIsFixed": true,
+  "originalObjectID": "2E80AF89-32AC-428F-B4CB-4695D24A6144",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "07F5F758-3270-49F7-85C5-530E3F51814A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 3
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

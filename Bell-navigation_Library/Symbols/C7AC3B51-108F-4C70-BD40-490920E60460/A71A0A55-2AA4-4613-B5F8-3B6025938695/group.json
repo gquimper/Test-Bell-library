@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "A71A0A55-2AA4-4613-B5F8-3B6025938695",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F45668D6-581D-4EB5-9DD7-17C2ADEF6F51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE5CCF60-7136-4653-A651-3169B10294DE"
+    },
+    {
+      "class": "text",
+      "id": "9B3539C3-2AB4-45BC-ABA2-9366E34526C6"
+    }
+  ],
+  "name": "Navigation / Tablet MyBell - FLOW - steps",
+  "nameIsFixed": true,
+  "originalObjectID": "9FD554D2-0155-4742-8009-EAE270B87CC0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "height": {
+            "constant": 54,
+            "enabled": 1,
+            "modelID": "constraint_8d42deb7-63f0-4815-8372-cb9cd7428637",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_898d0d74-b540-47a8-b5de-9fe786bdd599",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

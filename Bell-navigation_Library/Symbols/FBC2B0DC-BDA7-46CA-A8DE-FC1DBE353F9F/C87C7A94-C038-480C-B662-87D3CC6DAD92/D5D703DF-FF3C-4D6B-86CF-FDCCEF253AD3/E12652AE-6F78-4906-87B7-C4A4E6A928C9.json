@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E12652AE-6F78-4906-87B7-C4A4E6A928C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 40,
+    "x": 20,
+    "y": 16
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "ICONS / TV icon",
+  "nameIsFixed": false,
+  "originalObjectID": "E12652AE-6F78-4906-87B7-C4A4E6A928C9",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "329892F0-39A2-43A9-964F-2D4572E877EB_symbolID",
+      "value": "92E9C494-54BA-48BE-929F-0425C57E9859"
+    }
+  ],
+  "overrides": {
+    "329892F0-39A2-43A9-964F-2D4572E877EB": {
+      "symbolID": "92E9C494-54BA-48BE-929F-0425C57E9859"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B835AFDF-6EF2-46F7-97E5-40E951E5D7F3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

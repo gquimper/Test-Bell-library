@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "EF70B8C6-6C5B-42BC-9E08-C083AD6E57DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 768,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "102CF9A1-029D-4CFC-8579-98876C8147F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FDE70094-70CF-4FE1-B9B6-0A7CAACF8AA8"
+    },
+    {
+      "class": "group",
+      "id": "90AC64EC-0F0D-4AA4-B0DB-D93A74DBC9DB"
+    }
+  ],
+  "name": "Navigation / Tablet MyBell",
+  "nameIsFixed": false,
+  "originalObjectID": "EF70B8C6-6C5B-42BC-9E08-C083AD6E57DB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "height": {
+            "constant": 54,
+            "enabled": 1,
+            "modelID": "constraint_a733f7a2-a2bb-42d2-b96a-5ec7247b8fbe",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_701eeccc-be2a-4872-848b-b9c32a44d694",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

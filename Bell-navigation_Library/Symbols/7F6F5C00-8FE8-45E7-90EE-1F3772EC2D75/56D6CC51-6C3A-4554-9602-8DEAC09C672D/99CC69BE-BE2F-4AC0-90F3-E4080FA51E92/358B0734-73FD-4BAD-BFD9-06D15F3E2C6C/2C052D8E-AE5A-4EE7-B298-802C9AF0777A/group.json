@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "2C052D8E-AE5A-4EE7-B298-802C9AF0777A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 14,
+    "x": -4.67741935483871,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F98D958D-55FE-4808-8190-7E2B3592D569"
+    },
+    {
+      "class": "group",
+      "id": "D4EB5176-A935-4CC4-90E3-81F1827CFCBA"
+    }
+  ],
+  "name": "ICONS / Big Arrow",
+  "nameIsFixed": false,
+  "originalObjectID": "3EB0DEED-6659-429C-9A8C-A19E3B0A3653",
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 18184,
+  "do_objectID": "424B945A-F4E4-449E-96C0-65154D8EC63B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 360,
+    "width": 992,
+    "x": 0,
+    "y": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      1550.8125,
+      15,
+      977
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5B762547-CFF7-40B5-9041-C5EFF23947CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A26723AA-0079-4FED-AECD-D678A8EC952E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "399C3C83-8C3F-4510-9CAC-277BF9E85331"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 53,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 29.5,
+    "guttersOutside": true,
+    "horizontalOffset": 1,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 990
+  },
+  "name": "DESKTOP / Expanded / Mybell",
+  "nameIsFixed": true,
+  "originalObjectID": "424B945A-F4E4-449E-96C0-65154D8EC63B",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FDBAE84D-97F5-40BF-BD26-7841CD46EEBD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "version": 14
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      103
+    ]
+  }
+}

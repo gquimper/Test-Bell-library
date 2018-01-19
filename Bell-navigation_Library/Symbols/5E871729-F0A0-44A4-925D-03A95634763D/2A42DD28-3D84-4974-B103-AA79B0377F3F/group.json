@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "do_objectID": "2A42DD28-3D84-4974-B103-AA79B0377F3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 768,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FC4DA6F2-FFB1-4C55-B896-6F705A3C0C8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA44156B-B948-4BF6-BDC7-FB5AF7371B5A"
+    },
+    {
+      "class": "group",
+      "id": "ACB85C31-9983-429E-BC39-157434AD4CE7"
+    },
+    {
+      "class": "text",
+      "id": "1905913D-166B-4029-BBCF-6AE281819F74"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFF66FA7-CC90-47FE-8593-118ADB840C13"
+    }
+  ],
+  "name": "Nav",
+  "nameIsFixed": true,
+  "originalObjectID": "2A42DD28-3D84-4974-B103-AA79B0377F3F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

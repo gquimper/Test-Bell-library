@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DE5CCF60-7136-4653-A651-3169B10294DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13,
+    "width": 7,
+    "x": 15,
+    "y": 21
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "ICONS / Big Arrow",
+  "nameIsFixed": false,
+  "originalObjectID": "A9EA5327-D2CE-4EED-BAD4-750969C32F96",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C757A277-E40D-43DD-98E3-379DAF1C4097_symbolID",
+      "value": "92E9C494-54BA-48BE-929F-0425C57E9859"
+    }
+  ],
+  "overrides": {
+    "C757A277-E40D-43DD-98E3-379DAF1C4097": {
+      "symbolID": "92E9C494-54BA-48BE-929F-0425C57E9859"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "886A8F79-4B95-4A2E-8EAF-9D20274F7BA6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

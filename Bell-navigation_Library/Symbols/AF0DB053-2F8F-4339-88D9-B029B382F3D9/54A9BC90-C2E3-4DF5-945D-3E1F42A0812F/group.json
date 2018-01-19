@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "54A9BC90-C2E3-4DF5-945D-3E1F42A0812F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 992,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "051177EE-3573-4F6B-9F9C-3CE2255829D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12771EB0-6ECE-4341-8C9C-3AF23EB7D408"
+    },
+    {
+      "class": "text",
+      "id": "5A65D8AB-711A-469F-9207-0555A84CCB5A"
+    },
+    {
+      "class": "group",
+      "id": "2A5F9050-FE0C-4787-ACAA-07A85FA74889"
+    }
+  ],
+  "name": "SUBSUBNAV / MyBell / My profile",
+  "nameIsFixed": true,
+  "originalObjectID": "54A9BC90-C2E3-4DF5-945D-3E1F42A0812F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

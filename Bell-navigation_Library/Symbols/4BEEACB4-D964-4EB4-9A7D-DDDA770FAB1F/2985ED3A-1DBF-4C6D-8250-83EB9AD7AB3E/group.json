@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "2985ED3A-1DBF-4C6D-8250-83EB9AD7AB3E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 768,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3843C8CA-D0D0-4693-8025-2FFA34E55876"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E4FAA53-87F8-44F3-8316-47950E221234"
+    },
+    {
+      "class": "group",
+      "id": "C7AE38E5-2658-4B8A-9BF0-EE64B1565AC6"
+    },
+    {
+      "class": "group",
+      "id": "07397DE1-6133-4132-B43E-0C20718048EF"
+    },
+    {
+      "class": "text",
+      "id": "A790CDC9-525A-4D49-B0A9-933A915105DE"
+    }
+  ],
+  "name": "Navigation / Tablet MyBell",
+  "nameIsFixed": false,
+  "originalObjectID": "EF70B8C6-6C5B-42BC-9E08-C083AD6E57DB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "height": {
+            "constant": 54,
+            "enabled": 1,
+            "modelID": "constraint_a733f7a2-a2bb-42d2-b96a-5ec7247b8fbe",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_701eeccc-be2a-4872-848b-b9c32a44d694",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

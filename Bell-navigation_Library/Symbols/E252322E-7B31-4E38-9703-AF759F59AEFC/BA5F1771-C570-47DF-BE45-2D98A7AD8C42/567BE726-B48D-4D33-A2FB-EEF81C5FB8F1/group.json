@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "567BE726-B48D-4D33-A2FB-EEF81C5FB8F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 397,
+    "x": 15,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DF911FB0-0EE9-4F2C-9D21-4123FACA7E7E"
+    },
+    {
+      "class": "text",
+      "id": "31313569-C31E-485D-979D-21BB5DE470FF"
+    },
+    {
+      "class": "text",
+      "id": "2894B73A-ECBF-4722-A037-AD010F8A3031"
+    }
+  ],
+  "name": "Group 5",
+  "nameIsFixed": false,
+  "originalObjectID": "567BE726-B48D-4D33-A2FB-EEF81C5FB8F1",
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 15,
+            "enabled": 1,
+            "modelID": "constraint_bb633664-62ab-482e-bed3-b44764f69115",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_dd776d17-f874-48d0-bd3c-b77d832f86ae",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 397,
+            "enabled": 1,
+            "modelID": "constraint_ae26dfac-6c8c-472c-9787-e145927dc2a2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  }
+}
